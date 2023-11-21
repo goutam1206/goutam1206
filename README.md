@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goutam1206
-- 👀 I’m interested Artificial Intelligence
-- 🌱 I’m currently Generative AI, gptEngineer, gptautomation
-- 💞️ I’m looking to collaborate anything related to automation at any scale
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Generative AI, gptEngineer, gptautomation
+- 💞️ I’m looking to collaborate on anything related to automation at any scale
 - 📫 reachme on +91-9742232574 or sarma.goutama@gmail.com
 
 <!---
